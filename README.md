@@ -40,6 +40,8 @@ Computational Theory also plays a crucial role in the design and analysis of exp
 [Theoretical Science Simulator](https://github.com/sourceduty/Theoretical_Science_Simulator)
 <br>
 [Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
+<br>
+[Network Circuit Theory](https://github.com/sourceduty/Network_Circuit_Theory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
