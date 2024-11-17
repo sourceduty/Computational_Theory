@@ -33,6 +33,7 @@ Computational Theory also plays a crucial role in the design and analysis of exp
 
 The problems addressed by theoretical computational models span a wide array of disciplines, tackling some of the most pressing scientific, social, and technological challenges. These models are instrumental in understanding and predicting complex systems, ranging from natural phenomena like the spread of infectious diseases, wildfire propagation, and ecosystem stability to artificial systems such as traffic flow optimization, cybersecurity, and power grid management. They help simulate critical processes, such as protein folding, climate change, genetic evolution, and economic market dynamics, allowing researchers to explore scenarios that would be too costly, time-consuming, or dangerous to study experimentally. Computational models also play a vital role in designing efficient algorithms for tasks like autonomous navigation, cryptography, and resource allocation, while enabling the optimization of policies and interventions in areas like vaccination strategies, urban planning, and renewable energy systems. By uncovering insights into the behavior and interactions of these systems, computational theory provides powerful tools for solving real-world problems and advancing innovation across fields such as biology, physics, economics, and social sciences.
 
+```
 1. Predicting the spread of infectious diseases
 2. Modeling traffic flow in urban areas
 3. Simulating climate change and global warming
@@ -53,6 +54,7 @@ The problems addressed by theoretical computational models span a wide array of 
 18. Optimizing energy consumption in power grids
 19. Simulating crowd dynamics in emergency scenarios
 20. Predicting earthquake propagation and damage
+```
 
 #
 ### Related Links
