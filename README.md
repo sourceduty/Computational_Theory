@@ -20,6 +20,8 @@ Print computational theory concepts.
 #
 ### Computational Theory
 
+![Science](https://github.com/user-attachments/assets/5960c499-199d-41dd-988e-aa1ddcd54fe0)
+
 Computational Theory is a branch of theoretical computer science that focuses on understanding the fundamental principles that govern computation and its capabilities. It involves the study of abstract models of computation, such as Turing machines, automata, and formal languages, to explore what can and cannot be computed. The theory seeks to define the limits of computational power, the efficiency of algorithms, and the complexity of computational problems. By establishing these theoretical foundations, Computational Theory provides a framework for analyzing and solving problems across various scientific disciplines.
 
 One of the key contributions of Computational Theory to science is its ability to formalize complex problems and provide a systematic approach to finding solutions. By representing scientific problems as computational models, researchers can apply mathematical and algorithmic techniques to analyze and solve these problems. This formalization allows for a clear understanding of the problem's structure, the identification of potential solutions, and the evaluation of their feasibility and efficiency. As a result, Computational Theory enables scientists to tackle problems that would be intractable using traditional analytical methods.
