@@ -18,6 +18,25 @@ Print computational theory concepts.
 ```
 
 #
+### Computer User Abstraction
+
+The levels of abstraction for computer users range from the most basic, hands-on interaction with hardware to the theoretical principles underlying computational systems. At the foundational level, users interact with physical components like processors and memory, often through operating systems that abstract complex hardware operations. Moving upward, users engage with software applications, where they can use graphical interfaces and command-line tools. This layer hides the complexity of system internals, making technology accessible to a broader audience. As the user advances, they may deal with programming languages and frameworks, which require a deeper understanding of logic, data structures, and algorithms but still abstract away hardware-level concerns.
+
+At the highest abstraction, the focus shifts to theoretical computer science, which deals with the study of algorithms, computational complexity, and formal models of computation. This is the realm of theoretical research, where concepts like Turing machines, automata, and computational hierarchies are explored. The ultimate goal here is to understand the fundamental limits of what can be computed, and this knowledge informs the development of more efficient algorithms and the evolution of computing theory itself. In essence, the path from user to researcher moves from direct interaction with technology to conceptual models that guide innovation.
+
+```
+Basic Interaction with Hardware
+↓
+Operating System Level
+↓
+Software Applications & User Interfaces
+↓
+Programming Languages & Frameworks
+↓
+Theoretical Computer Science
+```
+
+#
 ### Computational Theory
 
 ![Science](https://github.com/user-attachments/assets/5960c499-199d-41dd-988e-aa1ddcd54fe0)
