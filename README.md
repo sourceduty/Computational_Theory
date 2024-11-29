@@ -25,15 +25,11 @@ The levels of abstraction for computer users range from the most basic, hands-on
 At the highest abstraction, the focus shifts to theoretical computer science, which deals with the study of algorithms, computational complexity, and formal models of computation. This is the realm of theoretical research, where concepts like Turing machines, automata, and computational hierarchies are explored. The ultimate goal here is to understand the fundamental limits of what can be computed, and this knowledge informs the development of more efficient algorithms and the evolution of computing theory itself. In essence, the path from user to researcher moves from direct interaction with technology to conceptual models that guide innovation.
 
 ```
-Basic Interaction with Hardware
-↓
-Operating System Level
-↓
-Software Applications & User Interfaces
-↓
-Programming Languages & Frameworks
-↓
-Theoretical Computer Science
+5. Theoretical Computer Science
+4. Programming Languages & Frameworks
+3. Software Applications & User Interfaces
+2. Operating System Level
+1. Basic Interaction with Hardware
 ```
 
 #
